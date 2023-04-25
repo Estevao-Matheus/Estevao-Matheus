@@ -33,8 +33,11 @@
    <a href="https://www.linkedin.com/in/matheus-estevão-2536b1141/" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
 
 
+##
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Estevao-Matheus&theme=synthwave)](https://git.io/streak-stats)
 
+##
 - 🔭 Trabalho com front-end
 - 🌱 Estou atualmente estudando React e Typescript
 - 📫 Entre em contato comigo em : matheus935@gmail.com
