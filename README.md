@@ -1,4 +1,11 @@
-### Bem-vindo, sou Matheus Estevão
+### Bem-vindo
+
+<div  style"display:flex;justify-content:center">
+   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="400"/>
+</di>
+
+##
+
 <div style="display:flex">
           
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estevao-Matheus&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)        
@@ -23,6 +30,7 @@
  <a href="https://discord.gg/Matheus#0419" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheus935@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-estevão-2536b1141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/matheus-estevão-2536b1141/" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
 
 
 
